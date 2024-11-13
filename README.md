@@ -14,6 +14,7 @@ A implementação inclui funcionalidades para manipulação de dados de alunos a
 
 ## Inserts:
 ![Imagem CLI](https://github.com/breno-almeida-dev/CONEXAOBD/blob/master/CLI-Insert1-2.png)
+
 ![Imagem CLI](https://github.com/breno-almeida-dev/CONEXAOBD/blob/master/CLI-Insert3-4.png)
 ![Imagem do banco de dados 1](https://github.com/breno-almeida-dev/CONEXAOBD/blob/master/BD-Insert1.png)  
 ![Imagem do banco de dados 2](https://github.com/breno-almeida-dev/CONEXAOBD/blob/master/BD-Insert2.png)
